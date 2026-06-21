@@ -8,6 +8,7 @@ jenkins-docker-pipeline/
     ├── pipeline-success.png
     └── console-output.png
 
+<img width="312" height="238" alt="image" src="https://github.com/user-attachments/assets/3e2c32b0-6227-4e79-914d-ced682a0d280" />
 
 
 # Jenkins Docker Pipeline Setup
@@ -34,6 +35,10 @@ Windows Host
     └── Docker Socket (/var/run/docker.sock)
             │
             └── Node.js Build Container
+
+
+            <img width="431" height="282" alt="image" src="https://github.com/user-attachments/assets/298ba895-9722-4792-9a70-4eb256fd4a37" />
+
 
 ## Setup
 
