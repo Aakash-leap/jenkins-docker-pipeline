@@ -37,7 +37,7 @@ Windows Host
             └── Node.js Build Container
 
 
-            <img width="431" height="282" alt="image" src="https://github.com/user-attachments/assets/298ba895-9722-4792-9a70-4eb256fd4a37" />
+<img width="431" height="282" alt="image" src="https://github.com/user-attachments/assets/298ba895-9722-4792-9a70-4eb256fd4a37" />
 
 
 ## Setup
